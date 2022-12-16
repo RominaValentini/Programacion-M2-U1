@@ -1,0 +1,29 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24;
+    color: blueviolet;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.contenedor{
+    display: flex;
+}
+
+.cuadrado{
+    height: 100px;
+    width: 100px;
+}
+
+.rosa{
+    background-color: pink;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.naranja{
+    background-color: orange;
+}
